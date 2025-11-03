@@ -1,0 +1,22 @@
+body {
+    background-color: #f4f6fa;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+h2, h3 {
+    font-weight: 700;
+}
+
+.carousel img {
+    height: 400px;
+    object-fit: cover;
+}
+
+.accordion img {
+    max-height: 250px;
+    object-fit: cover;
+}
+
+footer {
+    border-top: 3px solid white;
+}
